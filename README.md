@@ -3,9 +3,13 @@
 
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react 360
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: keltonlabrac@gmail.com
 - 🐵 another github account: https://github.com/KeltonSS 
+
+<a href="https://app.daily.dev/Labrac"><img src="https://api.daily.dev/devcards/bd237246479c4b7aa162a9a008bddec8.png?r=h67" width="400" alt="Kelton Cabral's Dev Card"/></a>
+
+
 
 <div align="center">
   <a href="https://github.com/CledirFL">
@@ -39,3 +43,5 @@
  <a href="https://t.me/Labrac" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
 </div>
+
+
