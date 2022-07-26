@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel, Nestjs & Flutter
 - 📫 How to reach me: keltonlabrac@gmail.com
 - 🐵 another github account: https://github.com/KeltonSS 
 
