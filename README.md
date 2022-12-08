@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Laravel, Nestjs & Flutter
+- 🔭 I’m currently working on front-end (react-native, reactjs, nextjs and flutter)
+- 🌱 I’m currently learning Nestjs & Flutter
 - 📫 How to reach me: keltonlabrac@gmail.com
 - 🐵 another github account: https://github.com/KeltonSS 
 
