@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Nestjs & Flutter
 - 📫 How to reach me: keltonlabrac@gmail.com
 - 🐵 another github account: https://github.com/KeltonSS 
+- 🗒️My CV: https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/c70c3c55-241a-4680-a736-ae9df8d274ca?view=html
 
 <a href="https://app.daily.dev/Labrac"><img src="https://api.daily.dev/devcards/bd237246479c4b7aa162a9a008bddec8.png?r=h67" width="400" alt="Kelton Cabral's Dev Card"/></a>
 
